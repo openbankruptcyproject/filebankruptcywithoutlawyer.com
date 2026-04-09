@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://filebankruptcywithoutlawyer.com/sitemapindex.xml
+
+Sitemap: https://filebankruptcywithoutlawyer.com/feed.xml
