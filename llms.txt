@@ -1,26 +1,26 @@
-# File Bankruptcy Without a Lawyer -- Pro Se Guide [2026]
+# File Bankruptcy Without a Lawyer - Pro Se Guide [2026]
 > How to file Chapter 7 or Chapter 13 bankruptcy without a lawyer. Forms, fees, means test, and court procedures. Complete 2026 pro se filin...
 
 ## About
 filebankruptcywithoutlawyer.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- File Bankruptcy Without a Lawyer -- Pro Se Guide: https://filebankruptcywithoutlawyer.com/
-- Bankruptcy Petition Preparer -- What They Can and Cannot Do: https://filebankruptcywithoutlawyer.com/bankruptcy-petition-preparer.html
-- Bankruptcy Software -- Best Tools for Filing Pro Se in 2026: https://filebankruptcywithoutlawyer.com/bankruptcy-software.html
+- Bankruptcy Petition Preparer - What They Can and Cannot Do: https://filebankruptcywithoutlawyer.com/bankruptcy-petition-preparer.html
+- Bankruptcy Software - Best Tools for Filing Pro Se in 2026: https://filebankruptcywithoutlawyer.com/bankruptcy-software.html
 - Can I File Chapter 13 Myself? Pro Se Chapter 13 Guide: https://filebankruptcywithoutlawyer.com/can-i-file-chapter-13-myself.html
 - Can I File Chapter 7 Myself? Pro Se Filing Guide: https://filebankruptcywithoutlawyer.com/can-i-file-chapter-7-myself.html
 - Filing Chapter 13 Bankruptcy Pro Se: https://filebankruptcywithoutlawyer.com/chapter-13-pro-se.html
-- Filing Chapter 7 Bankruptcy Pro Se -- Step by Step: https://filebankruptcywithoutlawyer.com/chapter-7-pro-se.html
+- Filing Chapter 7 Bankruptcy Pro Se - Step by Step: https://filebankruptcywithoutlawyer.com/chapter-7-pro-se.html
 - Common Pro Se Bankruptcy Mistakes to Avoid: https://filebankruptcywithoutlawyer.com/common-mistakes.html
 - Bankruptcy Credit Counseling Requirement: https://filebankruptcywithoutlawyer.com/credit-counseling.html
-- DIY Bankruptcy -- How to File Without a Lawyer: https://filebankruptcywithoutlawyer.com/diy-bankruptcy.html
-- FAQ -- Filing Bankruptcy Without a Lawyer: https://filebankruptcywithoutlawyer.com/faq.html
+- DIY Bankruptcy - How to File Without a Lawyer: https://filebankruptcywithoutlawyer.com/diy-bankruptcy.html
+- FAQ - Filing Bankruptcy Without a Lawyer: https://filebankruptcywithoutlawyer.com/faq.html
 - Bankruptcy Filing Fees and Fee Waivers: https://filebankruptcywithoutlawyer.com/filing-fees.html
-- Bankruptcy Forms Guide -- Every Form You Need: https://filebankruptcywithoutlawyer.com/forms-guide.html
+- Bankruptcy Forms Guide - Every Form You Need: https://filebankruptcywithoutlawyer.com/forms-guide.html
+- File Bankruptcy Without a Lawyer - Pro Se Guide: https://filebankruptcywithoutlawyer.com/
 - Preparing for the 341 Meeting Without an Attorney: https://filebankruptcywithoutlawyer.com/meeting-prep.html
-- Online Bankruptcy Filing Services -- 2026 Comparison: https://filebankruptcywithoutlawyer.com/online-bankruptcy-filing-service.html
-- Self-Filed Bankruptcy -- Complete Guide to Filing on Your Own: https://filebankruptcywithoutlawyer.com/self-filed-bankruptcy.html
+- Online Bankruptcy Filing Services - 2026 Comparison: https://filebankruptcywithoutlawyer.com/online-bankruptcy-filing-service.html
+- Self-Filed Bankruptcy - Complete Guide to Filing on Your Own: https://filebankruptcywithoutlawyer.com/self-filed-bankruptcy.html
 - File Bankruptcy Without a Lawyer in Alabama: https://filebankruptcywithoutlawyer.com/states/alabama.html
 - File Bankruptcy Without a Lawyer in Alaska: https://filebankruptcywithoutlawyer.com/states/alaska.html
 - File Bankruptcy Without a Lawyer in Arizona: https://filebankruptcywithoutlawyer.com/states/arizona.html
@@ -35,7 +35,7 @@ filebankruptcywithoutlawyer.com is part of the Open Bankruptcy Project (openbank
 - File Bankruptcy Without a Lawyer in Hawaii: https://filebankruptcywithoutlawyer.com/states/hawaii.html
 - File Bankruptcy Without a Lawyer in Idaho: https://filebankruptcywithoutlawyer.com/states/idaho.html
 - File Bankruptcy Without a Lawyer in Illinois: https://filebankruptcywithoutlawyer.com/states/illinois.html
-- States: https://filebankruptcywithoutlawyer.com/states/index.html
+- States: https://filebankruptcywithoutlawyer.com/states/
 - File Bankruptcy Without a Lawyer in Indiana: https://filebankruptcywithoutlawyer.com/states/indiana.html
 - File Bankruptcy Without a Lawyer in Iowa: https://filebankruptcywithoutlawyer.com/states/iowa.html
 - File Bankruptcy Without a Lawyer in Kansas: https://filebankruptcywithoutlawyer.com/states/kansas.html
@@ -73,6 +73,7 @@ filebankruptcywithoutlawyer.com is part of the Open Bankruptcy Project (openbank
 - File Bankruptcy Without a Lawyer in West Virginia: https://filebankruptcywithoutlawyer.com/states/west-virginia.html
 - File Bankruptcy Without a Lawyer in Wisconsin: https://filebankruptcywithoutlawyer.com/states/wisconsin.html
 - File Bankruptcy Without a Lawyer in Wyoming: https://filebankruptcywithoutlawyer.com/states/wyoming.html
+- Privacy Policy: https://filebankruptcywithoutlawyer.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

@@ -6,378 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## File Bankruptcy Without a Lawyer -- Pro Se Guide [2026]
-Source: https://filebankruptcywithoutlawyer.com/
-
-filebankruptcywithoutlawyer.com
-☰
-
-Home
-Chapter 7
-Chapter 13
-Forms
-Fees
-Counseling
-341 Meeting
-Mistakes
-FAQ
-
-File Bankruptcy Without a Lawyer
-
-You have the legal right to represent yourself in bankruptcy court. Here is exactly what that involves -- the forms, the fees, the process, and the mistakes to avoid.
-
-$338Chapter 7 filing fee (no attorney)
-
-~8-10%Ch. 7 cases filed pro se nationally
-
-23+Official forms required
-
-Your right to file pro se
-
-Under 28 U.S.C. § 1654, any party to a civil action has the right to appear pro se -- meaning you represent yourself without an attorney. This right extends to bankruptcy court. No judge can deny you the ability to file your own case.
-
-That said, pro se bankruptcy is not for everyone. It works best when your case is straightforward: simple debts, no significant assets, no business complications, and no contested creditor disputes. The more complex your situation, the more valuable an attorney becomes.
-
-28 U.S.C. § 1654: "In all courts of the United States the parties may plead and conduct their own cases personally or by counsel."
-
-Note: Under 11 U.S.C. § 304(g), corporations and LLCs cannot file pro se -- they must be represented by an attorney. Only individuals can represent themselves.
-
-Some filers go pro se after experiencing attorney negligence in a prior bankruptcy case. If that describes your situation, know that you may have legal recourse for the prior representation as well.
-
-Explore the guide
-
-We built a separate page for every major step and question. Start where you need:
-
-Chapter 7 Pro Se
-
-Step-by-step guide to filing Chapter 7 without a lawyer. The most common pro se chapter.
-
-Chapter 13 Pro Se
-
-Why Chapter 13 pro se is harder, what it involves, and when to consider it anyway.
-
-Forms Guide
-
-Every official bankruptcy form you need, where to get them, and how to fill them out.
-
-Filing Fees
-
-How much it costs, fee waiver eligibility, and installment payment options.
-
-Credit Counseling
-
-The two mandatory courses -- what they are, where to take them, and what they cost.
-
-341 Meeting Prep
-
-Preparing for the meeting of creditors without an attorney. What to expect and what to bring.
-
-Common Mistakes
-
-The errors that get pro se cases dismissed -- and how to avoid every one of them.
-
-FAQ
-
-Answers to the questions pro se filers ask most, from eligibility to discharge timeline.
-
-Chapter 7 vs Chapter 13 pro se -- at a glance
-
-FactorChapter 7 Pro SeChapter 13 Pro Se
-
-Difficulty levelModerateVery difficult
-
-Filing fee$338$313
-
-Time to discharge3-4 months3-5 years
-
-Plan required?NoYes -- the hardest part
-
-Pro se success rateReasonable (simple cases)Low (high dismissal rate)
-
-Fee waiver available?YesNo
-
-Court appearancesJust the 341 meeting341 meeting + confirmation hearing
-
-The pro se filing checklist
-
-Complete pre-filing credit counseling (required within 180 days before filing) -- details
-
-Gather financial documents: tax returns (2 years), pay stubs (6 months), bank statements, loan statements, vehicle titles, property deeds
-
-Complete all official bankruptcy forms -- forms guide
-
-Take the bankruptcy means test guide (Chapter 7) or draft your repayment plan (Chapter 13)
-
-File with the bankruptcy court clerk (in person or electronically where available) and pay the filing fee
-
-Attend the 341 meeting of creditors -- preparation guide
-
-Complete post-filing debtor education course (required before discharge)
-
-Receive your discharge (Chapter 7: ~60 days after 341 meeting; Chapter 13: after plan completion)
-
-When you should NOT file pro se: If you have a business, own real estate with equity, face creditor lawsuits, have non-dischargeable debts you need to negotiate, need to protect a codebtor, or have previously filed bankruptcy -- consult an attorney. The cost of mistakes in these situations almost always exceeds the cost of legal fees.
-
-Free help exists. Many bankruptcy courts have pro se assistance programs. Legal aid organizations offer free bankruptcy help to low-income filers. Law school clinics provide supervised legal assistance. Check your local bankruptcy court's website for pro se resources -- most have them.
-
-Frequently Asked Questions
-
-Can I file bankruptcy without a lawyer?
-
-Yes. Under 28 U.S.C. Section 1654, any party may appear pro se in federal court, including bankruptcy court. Chapter 7 pro se is significantly more manageable than Chapter 13, which involves a complex 3-to-5-year repayment plan. Approximately 8 to 10 percent of Chapter 7 cases are filed without an attorney.
-
-What is the success rate for pro se bankruptcy?
-
-Pro se Chapter 7 filers have a reasonably high success rate when the case is straightforward, with no significant assets or complex exemption issues. Pro se Chapter 13 cases have a substantially higher dismissal rate because drafting a confirmable repayment plan without legal training is extremely difficult. Court pro se assistance programs improve outcomes.
-
-How much does it cost to file bankruptcy without a lawyer?
-
-The Chapter 7 filing fee is $338 and the Chapter 13 filing fee is $313. You also need two credit counseling courses, typically $15 to $50 each. Without attorney fees, total out-of-pocket costs are typically $370 to $440. If you cannot afford the filing fee, you can apply for a fee waiver for Chapter 7 or an installment payment plan.
-
-Related Topics
-
-Pro Se Bankruptcy GuidePro Se Debtors341 Meeting GuideThe Means Test
-
-462+ Court Documents Freed from PACER
-
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
-
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
-Related Guides
-
-How Much Does Bankruptcy Cost?
-
-Pro Se Bankruptcy Questions
-
-Bankruptcy Filing Costs
-
-Bankruptcy Cost Breakdown
-
-Related Resources
-
-How to File Bankruptcy -- Full filing guide with or without an attorney
-
-The Automatic Stay -- Creditor protection that begins the instant you file
-
-Chapter 7 vs 13 -- Which chapter is right for your situation
-
-Federal Rules Committee
-
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
-
-Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-Subscribe
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-♥ Sponsor
-
-PACER cases made free through RECAP: 91 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-$0 of $5,000 Q1 PACER research goal
-
-1,500+ hours. No grants, no institutional backing. 0 supporters so far.
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on filing bankruptcy and pro se resources:
-
-Official Bankruptcy Forms
-All required forms
-
-Filing Without an Attorney
-USCourts.gov pro se guide
-
-Credit Counseling Agencies
-DOJ approved list
-
-Find Your Court
-Court locator
-
-CFPB: Filing Bankruptcy
-Consumer guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-Pro Se Research
-Google Scholar
-
-Related Guides
-
-Pro Se Filing Guide
-
-Step-by-step guide to filing without a lawyer
-
-prosebankruptcy.org →
-
-Pro Se Debtor Rights
-
-Know your rights as a pro se debtor
-
-prosedebtors.org →
-
-Pro Se Bankruptcy Questions
-
-Free bankruptcy information guide
-
-prosequestion.com →
-
-Bankruptcy Filing Costs
-
-Free bankruptcy information guide
-
-bankruptcycost.com →
-
-Your Next Questions
-
-Real users ask these next -- we built the answers.
-
-Chapter 7 vs Chapter 13
-
-Compare chapters before you file
-
-chapter7vs13.org →
-
-Can I Keep My Car?
-
-What happens to your vehicle in bankruptcy
-
-keepmycarinbankruptcy.com →
-
-Can I Keep My House?
-
-Homestead exemptions and mortgage options
-
-keepmyhouseinbankruptcy.com →
-
-What Is a Bankruptcy Mill?
-
-How to avoid high-volume, low-quality firms
-
-bankruptcymill.org →
-
-State Bankruptcy Guides
-
-Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
-
-California · Texas · Florida · New York · Illinois · Ohio
-
-Browse All 50 State Guides →
-
-Filing in Your State?
-
-Exemptions vary dramatically by state. Check what you can protect.
-
-Browse Your State's Exemptions →
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Free bankruptcy education. Not legal advice.
-
-Home · Chapter 7 · Chapter 13 · Forms · Fees · Counseling · 341 Meeting · Mistakes · FAQ
-
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-People Also Ask
-
-Is it a bad idea to file bankruptcy without a lawyer?
-
-What are the most common mistakes when filing bankruptcy pro se?
-
-View all questions →
-
-Have a Question?
-
-Open Bankruptcy Project provides free educational information. We are not a law firm.
-Nothing on this site constitutes legal advice. For advice about your specific situation,
-consult a licensed attorney.
-
-Select your state...
-Alabama
-Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-District of Columbia
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-American Samoa
-Guam
-Northern Mariana Islands
-Puerto Rico
-U.S. Virgin Islands
-
-I understand this is educational information, not legal advice.
-
-Submit Question
-
-Thank you! We typically respond within one business day.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Bankruptcy Petition Preparer -- What They Can and Cannot Do
+## Bankruptcy Petition Preparer - What They Can and Cannot Do
 Source: https://filebankruptcywithoutlawyer.com/bankruptcy-petition-preparer.html
 
 filebankruptcywithoutlawyer.com
@@ -391,11 +20,11 @@ Common Mistakes
 FAQ
 By State
 
-Bankruptcy Petition Preparer -- What They Can and Cannot Do
+Bankruptcy Petition Preparer - What They Can and Cannot Do
 
 Guide to bankruptcy petition preparers under 11 U.S.C. Section 110. What BPPs do, legal limits, fee caps, penalties, and when to use one vs. an attorney.
 
-Home › Bankruptcy Petition Preparer -- What They Can and Cannot Do
+Home › Bankruptcy Petition Preparer - What They Can and Cannot Do
 
 What Is a Bankruptcy Petition Preparer?
 
@@ -461,7 +90,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Bankruptcy Software -- Best Tools for Filing Pro Se in 2026
+## Bankruptcy Software - Best Tools for Filing Pro Se in 2026
 Source: https://filebankruptcywithoutlawyer.com/bankruptcy-software.html
 
 filebankruptcywithoutlawyer.com
@@ -475,11 +104,11 @@ Common Mistakes
 FAQ
 By State
 
-Bankruptcy Software -- Best Tools for Filing Pro Se in 2026
+Bankruptcy Software - Best Tools for Filing Pro Se in 2026
 
 Review of bankruptcy filing software for pro se debtors. Compare features, cost, and which tools best help you prepare your petition without a lawyer.
 
-Home › Bankruptcy Software -- Best Tools for Filing Pro Se in 2026
+Home › Bankruptcy Software - Best Tools for Filing Pro Se in 2026
 
 Bankruptcy Filing Software Options
 
@@ -583,7 +212,7 @@ The plan must pass the means test, best interests test, and feasibility test
 
 You must attend a confirmation hearing and potentially argue against trustee or creditor objections
 
-The plan lasts 3-5 years -- you must comply with plan requirements the entire time
+The plan lasts 3-5 years - you must comply with plan requirements the entire time
 
 Plan modification may be needed if your circumstances change
 
@@ -679,7 +308,7 @@ File the petition at your local bankruptcy court clerk's office. Filing fee: $33
 
 Attend the 341 meeting of creditors about 30-45 days after filing. Bring photo ID and proof of Social Security number. The trustee will ask questions about your petition and finances.
 
-Complete debtor education course ($15-$50) from an approved provider -- different from credit counseling
+Complete debtor education course ($15-$50) from an approved provider - different from credit counseling
 
 Receive your discharge about 60-90 days after the 341 meeting (assuming no objections)
 
@@ -709,6 +338,10 @@ Rebuild Credit ·
 Buy a House After ·
 Buy a Car After ·
 Automatic Stay
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -747,15 +380,17 @@ HomeChapter 7Chapter 13FormsFeesCounseling341 MeetingMistakesFAQ
 
 Filing Chapter 13 Bankruptcy Pro Se
 
-Chapter 13 pro se is rare for good reason -- but it is not impossible. Here is what you need to know before attempting it.
+Chapter 13 pro se is rare for good reason - but it is not impossible. Here is what you need to know before attempting it.
+
+Home›Filing Chapter 13 Bankruptcy Pro Se | filebankruptcywithoutlawyer.com›Filing Chapter 13 Bankruptcy Pro Se
 
 Why Chapter 13 pro se is harder
 
 Chapter 13 requires you to propose a 3-5 year repayment plan satisfying 11 U.S.C. § 1325. The plan must be confirmed by the judge after trustee and creditor review. It must address:
 
-Priority debts: Tax debts and domestic support -- paid in full
+Priority debts: Tax debts and domestic support - paid in full
 
-Secured debts: Mortgage arrears, car loans -- at least collateral value
+Secured debts: Mortgage arrears, car loans - at least collateral value
 
 Unsecured debts: Paid a percentage based on disposable income
 
@@ -799,15 +434,17 @@ Your court's website: Chapter 13 plan forms, local rules, pro se resources
 
 The Chapter 13 trustee's website: Plan requirements, payment info, checklists
 
-ProseDebtors.org -- Pro se resources and guidance
+ProseDebtors.org - Pro se resources and guidance
 
-ProSeBankruptcy.org -- Additional pro se bankruptcy resources
+ProSeBankruptcy.org - Additional pro se bankruptcy resources
 
 Legal aid and law school clinics for free or low-cost help
 
-Consider "limited scope" representation. Some attorneys offer unbundled services -- drafting your Chapter 13 plan or reviewing documents for a flat fee without full representation. This costs less than hiring an attorney for the entire case but gives professional help on the hardest part.
+Consider "limited scope" representation. Some attorneys offer unbundled services - drafting your Chapter 13 plan or reviewing documents for a flat fee without full representation. This costs less than hiring an attorney for the entire case but gives professional help on the hardest part.
 
 Related Topics
+
+1328(f) Discharge Screener
 
 Pro Se Bankruptcy GuidePro Se Debtors341 Meeting GuideThe Means Test
 
@@ -898,7 +535,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Filing Chapter 7 Bankruptcy Pro Se -- Step by Step
+## Filing Chapter 7 Bankruptcy Pro Se - Step by Step
 Source: https://filebankruptcywithoutlawyer.com/chapter-7-pro-se.html
 
 filebankruptcywithoutlawyer.com☰
@@ -908,9 +545,11 @@ Filing Chapter 7 Bankruptcy Pro Se
 
 Chapter 7 is the most common chapter for pro se filers. Here is every step from start to discharge.
 
+Home›Filing Chapter 7 Bankruptcy Pro Se - Step by Step | filebankruptcywithoutlawyer.com›Filing Chapter 7 Bankruptcy Pro Se
+
 Overview: what Chapter 7 does
 
-Chapter 7 bankruptcy -- sometimes called "liquidation bankruptcy" -- eliminates most unsecured debts (credit cards, medical bills, personal loans) in exchange for surrendering non-exempt assets. In practice, about 96% of Chapter 7 cases are "no-asset" cases, meaning the filer keeps everything because all assets are covered by exemptions.
+Chapter 7 bankruptcy - sometimes called "liquidation bankruptcy" - eliminates most unsecured debts (credit cards, medical bills, personal loans) in exchange for surrendering non-exempt assets. In practice, about 96% of Chapter 7 cases are "no-asset" cases, meaning the filer keeps everything because all assets are covered by exemptions.
 
 Under 11 U.S.C. § 727, the court grants a discharge that permanently wipes out qualifying debts. The entire process typically takes 3-4 months from filing to discharge.
 
@@ -966,7 +605,7 @@ Step 5: file with the court
 
 File your completed forms with the bankruptcy court clerk. Pay the $338 filing fee. If you cannot afford it, request a fee waiver (income below 150% of federal poverty line) or an installment plan.
 
-The instant you file, the automatic stay under 11 U.S.C. § 362 takes effect -- creditors must stop all collection activity.
+The instant you file, the automatic stay under 11 U.S.C. § 362 takes effect - creditors must stop all collection activity.
 
 Step 6: attend the 341 meeting
 
@@ -981,6 +620,8 @@ Complete the second required course (debtor education) from a U.S. Trustee-appro
 Common pro se Chapter 7 pitfalls: Incomplete schedules (#1 cause of dismissal), missed deadlines, failing to list all creditors, incorrect exemption claims, and not filing the credit counseling certificate. See common mistakes.
 
 Related Topics
+
+1328(f) Discharge Screener
 
 Pro Se Bankruptcy GuidePro Se Debtors341 Meeting GuideThe Means Test
 
@@ -1081,9 +722,11 @@ Common Pro Se Mistakes to Avoid
 
 These are the errors that sink pro se cases. Every one is avoidable if you know what to watch for.
 
+Home›Common Pro Se Bankruptcy Mistakes to Avoid | filebankruptcywithoutlawyer.com›Common Pro Se Mistakes to Avoid
+
 Mistake 1: incomplete schedules
 
-The #1 killer. Every asset on Schedule A/B -- even exempt ones. Every creditor on Schedules D, E/F -- even debts you plan to keep paying. Under 11 U.S.C. § 727(a)(4), the court can deny discharge for failure to disclose.
+The #1 killer. Every asset on Schedule A/B - even exempt ones. Every creditor on Schedules D, E/F - even debts you plan to keep paying. Under 11 U.S.C. § 727(a)(4), the court can deny discharge for failure to disclose.
 
 Use credit reports as a checklist. Pull all three from annualcreditreport.com. Cross-reference every account. Also list creditors not on credit reports (medical providers, family loans).
 
@@ -1109,15 +752,17 @@ If income exceeds the state median, you must complete the full means test. Using
 
 Mistake 5: not listing all creditors
 
-Unlisted creditors do not receive notice. In many jurisdictions, unlisted debts may not be discharged. List every creditor -- including ones you want to keep paying, disputed debts, small debts, and old debts.
+Unlisted creditors do not receive notice. In many jurisdictions, unlisted debts may not be discharged. List every creditor - including ones you want to keep paying, disputed debts, small debts, and old debts.
 
 Mistake 6: ignoring local rules
 
 Each court has local rules supplementing national rules: required local forms, formatting requirements, additional documents, different deadlines, cover sheets. Check your court's website for local rules and pro se instructions.
 
-You can amend. File amended schedules for $32. Correct errors before the 341 meeting whenever possible -- proactive corrections are far better received than errors the trustee discovers.
+You can amend. File amended schedules for $32. Correct errors before the 341 meeting whenever possible - proactive corrections are far better received than errors the trustee discovers.
 
 Related Topics
+
+1328(f) Discharge Screener
 
 Pro Se BankruptcyPro Se Debtors341 MeetingMeans Test
 
@@ -1216,7 +861,9 @@ HomeChapter 7Chapter 13FormsFeesCounseling341 MeetingMistakesFAQ
 
 The Credit Counseling Requirement
 
-Bankruptcy law requires two courses -- one before filing and one before discharge. Missing either one can destroy your case.
+Bankruptcy law requires two courses - one before filing and one before discharge. Missing either one can destroy your case.
+
+Home›Bankruptcy Credit Counseling Requirement | filebankruptcywithoutlawyer.com›The Credit Counseling Requirement
 
 Two required courses
 
@@ -1228,7 +875,7 @@ Post-filing debtor educationAFTER filing, before discharge11 U.S.C. § 727(a)(11
 
 Course 1: pre-filing credit counseling
 
-Complete within 180 days before filing. Covers your financial situation, alternatives to bankruptcy, and budget analysis. The counselor evaluates whether a debt management plan could work -- you are not required to accept it.
+Complete within 180 days before filing. Covers your financial situation, alternatives to bankruptcy, and budget analysis. The counselor evaluates whether a debt management plan could work - you are not required to accept it.
 
 After completing, the agency issues a certificate. File it with your petition or within 14 days.
 
@@ -1244,9 +891,11 @@ Only U.S. Trustee-approved agencies count. The official list is at justice.gov/u
 
 Do not skip these. Filing without a counseling certificate = case dismissed. Not completing debtor education before the deadline = no discharge. These are non-negotiable requirements under federal law.
 
-Reduced fees available. Many agencies offer free courses for low-income filers. If you are applying for a filing fee waiver, mention this -- agencies often waive their fee too.
+Reduced fees available. Many agencies offer free courses for low-income filers. If you are applying for a filing fee waiver, mention this - agencies often waive their fee too.
 
 Related Topics
+
+1328(f) Discharge Screener
 
 Pro Se BankruptcyPro Se Debtors341 MeetingMeans Test
 
@@ -1337,7 +986,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## DIY Bankruptcy -- How to File Without a Lawyer
+## DIY Bankruptcy - How to File Without a Lawyer
 Source: https://filebankruptcywithoutlawyer.com/diy-bankruptcy.html
 
 filebankruptcywithoutlawyer.com
@@ -1351,11 +1000,11 @@ Common Mistakes
 FAQ
 By State
 
-DIY Bankruptcy -- How to File Without a Lawyer
+DIY Bankruptcy - How to File Without a Lawyer
 
 Complete guide to DIY bankruptcy filing. Step-by-step process, required forms, costs, timelines, and common mistakes to avoid when filing pro se.
 
-Home › DIY Bankruptcy -- How to File Without a Lawyer
+Home › DIY Bankruptcy - How to File Without a Lawyer
 
 DIY Bankruptcy: The Complete Checklist
 
@@ -1447,21 +1096,23 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## FAQ -- Filing Bankruptcy Without a Lawyer
+## FAQ - Filing Bankruptcy Without a Lawyer
 Source: https://filebankruptcywithoutlawyer.com/faq.html
 
 filebankruptcywithoutlawyer.com☰
 HomeChapter 7Chapter 13FormsFeesCounseling341 MeetingMistakesFAQ
 
-FAQ -- Filing Bankruptcy Without a Lawyer
+FAQ - Filing Bankruptcy Without a Lawyer
 
-Answers to the questions pro se filers ask most -- from eligibility to what happens after discharge.
+Answers to the questions pro se filers ask most - from eligibility to what happens after discharge.
+
+Home›FAQ - Filing Bankruptcy Without a Lawyer | filebankruptcywithoutlawyer.com›FAQ - Filing Bankruptcy Without a Lawyer
 
 Eligibility
 
 Who can file pro se?
 
-Any individual under 28 U.S.C. § 1654. Married couples can file jointly pro se. Corporations and LLCs cannot file pro se -- they require an attorney.
+Any individual under 28 U.S.C. § 1654. Married couples can file jointly pro se. Corporations and LLCs cannot file pro se - they require an attorney.
 
 Do I qualify for Chapter 7 or Chapter 13?
 
@@ -1493,7 +1144,7 @@ File amended schedules for $32. Correct errors before the 341 meeting if possibl
 
 Can the court deny my discharge?
 
-Yes, under 11 U.S.C. § 727(a). Grounds include concealing assets, destroying records, making false statements. Honest mistakes are correctable -- fraud is not.
+Yes, under 11 U.S.C. § 727(a). Grounds include concealing assets, destroying records, making false statements. Honest mistakes are correctable - fraud is not.
 
 What debts survive bankruptcy?
 
@@ -1503,19 +1154,19 @@ Getting help
 
 Free legal resources
 
-Legal aid organizations -- free for income-qualifying filers
+Legal aid organizations - free for income-qualifying filers
 
-Law school clinics -- supervised legal assistance
+Law school clinics - supervised legal assistance
 
-Court pro se programs -- self-help desks and liaisons
+Court pro se programs - self-help desks and liaisons
 
-Volunteer lawyer programs -- bar association referrals
+Volunteer lawyer programs - bar association referrals
 
 ProSeBankruptcy.org and ProSeDebtors.org
 
 Can I hire a lawyer for just part of the case?
 
-Yes. "Limited scope" or "unbundled" services let attorneys review forms, draft plans, or coach you for the 341 meeting -- without full representation. Costs less than full representation.
+Yes. "Limited scope" or "unbundled" services let attorneys review forms, draft plans, or coach you for the 341 meeting - without full representation. Costs less than full representation.
 
 Related Topics
 
@@ -1616,13 +1267,15 @@ HomeChapter 7Chapter 13FormsFeesCounseling341 MeetingMistakesFAQ
 
 Bankruptcy Filing Fees and Fee Waivers
 
-The complete cost breakdown for filing pro se -- and how to get the fee reduced or waived entirely.
+The complete cost breakdown for filing pro se - and how to get the fee reduced or waived entirely.
+
+Home›Bankruptcy Filing Fees and Fee Waivers | filebankruptcywithoutlawyer.com›Bankruptcy Filing Fees and Fee Waivers
 
 Filing fees by chapter
 
 ChapterFiling FeeFee Waiver?
 
-Chapter 7$338Yes -- income below 150% FPL
+Chapter 7$338Yes - income below 150% FPL
 
 Chapter 13$313No (installments only)
 
@@ -1757,7 +1410,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Bankruptcy Forms Guide -- Every Form You Need
+## Bankruptcy Forms Guide - Every Form You Need
 Source: https://filebankruptcywithoutlawyer.com/forms-guide.html
 
 filebankruptcywithoutlawyer.com☰
@@ -1767,9 +1420,11 @@ Bankruptcy Forms Guide
 
 Every official form you need, where to get them for free, and the most common mistakes on each one.
 
+Home›Bankruptcy Forms Guide - Every Form You Need | filebankruptcywithoutlawyer.com›Bankruptcy Forms Guide
+
 Where to get the forms
 
-All official bankruptcy forms are free at uscourts.gov/forms/bankruptcy-forms. Never pay for forms -- they are public documents. Your court may also require local forms from its website.
+All official bankruptcy forms are free at uscourts.gov/forms/bankruptcy-forms. Never pay for forms - they are public documents. Your court may also require local forms from its website.
 
 Do not use outdated forms. Forms are updated periodically. Always download the latest version. Filing on outdated forms can result in rejection.
 
@@ -1779,7 +1434,7 @@ FormNameWhat It Covers
 
 101Voluntary PetitionName, address, SSN, chapter, prior filings
 
-106A/BSchedule A/B: PropertyEverything you own -- real estate, vehicles, bank accounts, personal property
+106A/BSchedule A/B: PropertyEverything you own - real estate, vehicles, bank accounts, personal property
 
 106CSchedule C: ExemptionsProperty claimed as exempt from liquidation
 
@@ -1820,6 +1475,8 @@ Use the instructions: Each form has official instructions. Read them carefully b
 Free preparation tools exist. Upsolve offers a free Chapter 7 preparation tool for income-qualifying filers. Some courts provide fillable PDFs with built-in calculations. Check your court's pro se resources page.
 
 Related Topics
+
+1328(f) Discharge Screener
 
 Pro Se Bankruptcy GuidePro Se Debtors341 Meeting GuideThe Means Test
 
@@ -1910,6 +1567,381 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
+## File Bankruptcy Without a Lawyer - Pro Se Guide [2026]
+Source: https://filebankruptcywithoutlawyer.com/
+
+Skip to main content
+
+filebankruptcywithoutlawyer.com
+☰
+
+Home
+Chapter 7
+Chapter 13
+Forms
+Fees
+Counseling
+341 Meeting
+Mistakes
+FAQ
+
+File Bankruptcy Without a Lawyer
+
+You have the legal right to represent yourself in bankruptcy court. Here is exactly what that involves - the forms, the fees, the process, and the mistakes to avoid.
+
+$338Chapter 7 filing fee (no attorney)
+
+~8-10%Ch. 7 cases filed pro se nationally
+
+23+Official forms required
+
+Your right to file pro se
+
+Under 28 U.S.C. § 1654, any party to a civil action has the right to appear pro se - meaning you represent yourself without an attorney. This right extends to bankruptcy court. No judge can deny you the ability to file your own case.
+
+That said, pro se bankruptcy is not for everyone. It works best when your case is straightforward: simple debts, no significant assets, no business complications, and no contested creditor disputes. The more complex your situation, the more valuable an attorney becomes.
+
+28 U.S.C. § 1654: "In all courts of the United States the parties may plead and conduct their own cases personally or by counsel."
+
+Note: Under 11 U.S.C. § 304(g), corporations and LLCs cannot file pro se - they must be represented by an attorney. Only individuals can represent themselves.
+
+Some filers go pro se after experiencing attorney negligence in a prior bankruptcy case. If that describes your situation, know that you may have legal recourse for the prior representation as well.
+
+Explore the guide
+
+We built a separate page for every major step and question. Start where you need:
+
+Chapter 7 Pro Se
+
+Step-by-step guide to filing Chapter 7 without a lawyer. The most common pro se chapter.
+
+Chapter 13 Pro Se
+
+Why Chapter 13 pro se is harder, what it involves, and when to consider it anyway.
+
+Forms Guide
+
+Every official bankruptcy form you need, where to get them, and how to fill them out.
+
+Filing Fees
+
+How much it costs, fee waiver eligibility, and installment payment options.
+
+Credit Counseling
+
+The two mandatory courses - what they are, where to take them, and what they cost.
+
+341 Meeting Prep
+
+Preparing for the meeting of creditors without an attorney. What to expect and what to bring.
+
+Common Mistakes
+
+The errors that get pro se cases dismissed - and how to avoid every one of them.
+
+FAQ
+
+Answers to the questions pro se filers ask most, from eligibility to discharge timeline.
+
+Chapter 7 vs Chapter 13 pro se - at a glance
+
+FactorChapter 7 Pro SeChapter 13 Pro Se
+
+Difficulty levelModerateVery difficult
+
+Filing fee$338$313
+
+Time to discharge3-4 months3-5 years
+
+Plan required?NoYes - the hardest part
+
+Pro se success rateReasonable (simple cases)Low (high dismissal rate)
+
+Fee waiver available?YesNo
+
+Court appearancesJust the 341 meeting341 meeting + confirmation hearing
+
+The pro se filing checklist
+
+Complete pre-filing credit counseling (required within 180 days before filing) - details
+
+Gather financial documents: tax returns (2 years), pay stubs (6 months), bank statements, loan statements, vehicle titles, property deeds
+
+Complete all official bankruptcy forms - forms guide
+
+Take the bankruptcy means test guide (Chapter 7) or draft your repayment plan (Chapter 13)
+
+File with the bankruptcy court clerk (in person or electronically where available) and pay the filing fee
+
+Attend the 341 meeting of creditors - preparation guide
+
+Complete post-filing debtor education course (required before discharge)
+
+Receive your discharge (Chapter 7: ~60 days after 341 meeting; Chapter 13: after plan completion)
+
+When you should NOT file pro se: If you have a business, own real estate with equity, face creditor lawsuits, have non-dischargeable debts you need to negotiate, need to protect a codebtor, or have previously filed bankruptcy - consult an attorney. The cost of mistakes in these situations almost always exceeds the cost of legal fees. If cost is the main reason you are considering filing alone, explore our guide to finding a low-cost bankruptcy attorney before deciding to go pro se.
+
+Free help exists. Many bankruptcy courts have pro se assistance programs. Legal aid organizations offer free bankruptcy help to low-income filers. Law school clinics provide supervised legal assistance. Check your local bankruptcy court's website for pro se resources - most have them.
+
+Frequently Asked Questions
+
+Can I file bankruptcy without a lawyer?
+
+Yes. Under 28 U.S.C. Section 1654, any party may appear pro se in federal court, including bankruptcy court. Chapter 7 pro se is significantly more manageable than Chapter 13, which involves a complex 3-to-5-year repayment plan. Approximately 8 to 10 percent of Chapter 7 cases are filed without an attorney.
+
+What is the success rate for pro se bankruptcy?
+
+Pro se Chapter 7 filers have a reasonably high success rate when the case is straightforward, with no significant assets or complex exemption issues. Pro se Chapter 13 cases have a substantially higher dismissal rate because drafting a confirmable repayment plan without legal training is extremely difficult. Court pro se assistance programs improve outcomes.
+
+How much does it cost to file bankruptcy without a lawyer?
+
+The Chapter 7 filing fee is $338 and the Chapter 13 filing fee is $313. You also need two credit counseling courses, typically $15 to $50 each. Without attorney fees, total out-of-pocket costs are typically $370 to $440. If you cannot afford the filing fee, you can apply for a fee waiver for Chapter 7 or an installment payment plan.
+
+Related Topics
+
+Pro Se Bankruptcy GuidePro Se Debtors341 Meeting GuideThe Means Test
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Related Guides
+
+How Much Does Bankruptcy Cost?
+
+Pro Se Bankruptcy Questions
+
+Bankruptcy Filing Costs
+
+Bankruptcy Cost Breakdown
+
+Related Resources
+
+How to File Bankruptcy - Full filing guide with or without an attorney
+
+The Automatic Stay - Creditor protection that begins the instant you file
+
+Chapter 7 vs 13 - Which chapter is right for your situation
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on filing bankruptcy and pro se resources:
+
+Official Bankruptcy Forms
+All required forms
+
+Filing Without an Attorney
+USCourts.gov pro se guide
+
+Credit Counseling Agencies
+DOJ approved list
+
+Find Your Court
+Court locator
+
+CFPB: Filing Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Pro Se Research
+Google Scholar
+
+Related Guides
+
+Pro Se Filing Guide
+
+Step-by-step guide to filing without a lawyer
+
+prosebankruptcy.org →
+
+Pro Se Debtor Rights
+
+Know your rights as a pro se debtor
+
+prosedebtors.org →
+
+Pro Se Bankruptcy Questions
+
+Free bankruptcy information guide
+
+prosequestion.com →
+
+Bankruptcy Filing Costs
+
+Free bankruptcy information guide
+
+bankruptcycost.com →
+
+Your Next Questions
+
+Real users ask these next - we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Compare chapters before you file
+
+chapter7vs13.org →
+
+Can I Keep My Car?
+
+What happens to your vehicle in bankruptcy
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Homestead exemptions and mortgage options
+
+keepmyhouseinbankruptcy.com →
+
+What Is a Bankruptcy Mill?
+
+How to avoid high-volume, low-quality firms
+
+bankruptcymill.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home · Chapter 7 · Chapter 13 · Forms · Fees · Counseling · 341 Meeting · Mistakes · FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy Policy
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+People Also Ask
+
+Is it a bad idea to file bankruptcy without a lawyer?
+
+What are the most common mistakes when filing bankruptcy pro se?
+
+View all questions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
 ## Preparing for the 341 Meeting Without an Attorney
 Source: https://filebankruptcywithoutlawyer.com/meeting-prep.html
 
@@ -1920,11 +1952,13 @@ Preparing for the 341 Meeting Alone
 
 The only required appearance in most cases. As a pro se filer, you attend without an attorney. Here is how to prepare.
 
+Home›Preparing for the 341 Meeting Without an Attorney | filebankruptcywithoutlawyer.com›Preparing for the 341 Meeting Alone
+
 What to expect
 
-The 341 meeting -- named after 11 U.S.C. § 341 -- is the only mandatory appearance in most Chapter 7 cases. The judge does not attend. The trustee asks questions under oath about your finances. Most meetings last 5-15 minutes.
+The 341 meeting - named after 11 U.S.C. § 341 - is the only mandatory appearance in most Chapter 7 cases. The judge does not attend. The trustee asks questions under oath about your finances. Most meetings last 5-15 minutes.
 
-As a pro se filer, the process is identical to represented debtors -- you just answer directly. The trustee is accustomed to pro se filers.
+As a pro se filer, the process is identical to represented debtors - you just answer directly. The trustee is accustomed to pro se filers.
 
 What to bring
 
@@ -1980,9 +2014,11 @@ Stay calm. The meeting is routine. Thousands happen every business day.
 
 Arrive early. Sit in on meetings before yours (they are public) to see how it works.
 
-Most 341 meetings since 2020 are by phone or video. Phone meetings are actually easier for pro se filers -- you can have all documents spread out at home.
+Most 341 meetings since 2020 are by phone or video. Phone meetings are actually easier for pro se filers - you can have all documents spread out at home.
 
 Related Topics
+
+Rule 9037 PII Scanner (Open Source)
 
 Pro Se BankruptcyPro Se Debtors341 Meeting GuideMeans Test
 
@@ -2073,7 +2109,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Online Bankruptcy Filing Services -- 2026 Comparison
+## Online Bankruptcy Filing Services - 2026 Comparison
 Source: https://filebankruptcywithoutlawyer.com/online-bankruptcy-filing-service.html
 
 filebankruptcywithoutlawyer.com
@@ -2087,11 +2123,11 @@ Common Mistakes
 FAQ
 By State
 
-Online Bankruptcy Filing Services -- 2026 Comparison
+Online Bankruptcy Filing Services - 2026 Comparison
 
 Compare online bankruptcy filing services. Upsolve, BankruptcyHQ, and other platforms reviewed for cost, features, chapter coverage, and user experience.
 
-Home › Online Bankruptcy Filing Services -- 2026 Comparison
+Home › Online Bankruptcy Filing Services - 2026 Comparison
 
 Online Bankruptcy Filing Services Compared
 
@@ -2149,7 +2185,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Self-Filed Bankruptcy -- Complete Guide to Filing on Your Own
+## Self-Filed Bankruptcy - Complete Guide to Filing on Your Own
 Source: https://filebankruptcywithoutlawyer.com/self-filed-bankruptcy.html
 
 filebankruptcywithoutlawyer.com
@@ -2163,11 +2199,11 @@ Common Mistakes
 FAQ
 By State
 
-Self-Filed Bankruptcy -- Complete Guide to Filing on Your Own
+Self-Filed Bankruptcy - Complete Guide to Filing on Your Own
 
 Everything you need to know about self-filing bankruptcy without an attorney. Step-by-step walkthrough from credit counseling to discharge.
 
-Home › Self-Filed Bankruptcy -- Complete Guide to Filing on Your Own
+Home › Self-Filed Bankruptcy - Complete Guide to Filing on Your Own
 
 Self-Filed Bankruptcy: What to Expect
 
@@ -2336,6 +2372,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -2464,6 +2504,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -2591,6 +2635,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -2721,6 +2769,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -2856,6 +2908,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -2983,6 +3039,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -3112,6 +3172,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -3240,6 +3304,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -3367,6 +3435,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -3500,6 +3572,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -3632,6 +3708,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -3760,6 +3840,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -3887,6 +3971,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -4020,6 +4108,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -4050,7 +4142,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 ---
 
 ## States
-Source: https://filebankruptcywithoutlawyer.com/states/index.html
+Source: https://filebankruptcywithoutlawyer.com/states/
 
 filebankruptcywithoutlawyer.com
 ☰
@@ -4286,6 +4378,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -4416,6 +4512,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -4543,6 +4643,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -4673,6 +4777,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -4806,6 +4914,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -4933,6 +5045,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -5062,6 +5178,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -5189,6 +5309,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -5320,6 +5444,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -5447,6 +5575,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -5578,6 +5710,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -5708,6 +5844,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -5835,6 +5975,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -5964,6 +6108,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -6091,6 +6239,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -6220,6 +6372,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -6348,6 +6504,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -6475,6 +6635,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -6610,6 +6774,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -6742,6 +6910,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -6869,6 +7041,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -6999,6 +7175,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -7132,6 +7312,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -7259,6 +7443,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -7392,6 +7580,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -7519,6 +7711,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -7648,6 +7844,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -7775,6 +7975,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -7907,6 +8111,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -8042,6 +8250,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8170,6 +8382,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8297,6 +8513,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -8428,6 +8648,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8557,6 +8781,10 @@ Keep Your House ·
 Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -8688,6 +8916,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8818,6 +9050,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8946,6 +9182,10 @@ Bankruptcy Cost ·
 Rebuild Credit ·
 Buy a House After
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 Free bankruptcy education. Not legal advice.
@@ -8975,10 +9215,82 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
+## Privacy Policy - filebankruptcywithoutlawyer.com
+Source: https://filebankruptcywithoutlawyer.com/privacy.html
+
+filebankruptcywithoutlawyer.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
 ## Additional FAQ Pages
 
 
-### Common Questions -- File Bankruptcy Without a Lawyer
+### Common Questions - File Bankruptcy Without a Lawyer
 Source: https://filebankruptcywithoutlawyer.com/paa/index.html
 
 filebankruptcywithoutlawyer.com
@@ -8994,6 +9306,24 @@ Is it a bad idea to file bankruptcy without a lawyer?
 
 What are the most common mistakes when filing bankruptcy pro se?
 
+Recognizing and Avoiding Bankruptcy Mills
+
+Bankruptcy mills are high-volume law firms that prioritize quantity over quality, often resulting in errors, missed deadlines, and inadequate representation. Red flags include heavily advertised low fees, minimal attorney contact, high paralegal-to-attorney ratios, and a lack of individualized attention to your case. The consequences of poor representation can be severe: missed exemptions, failure to address secured debts properly, and even case dismissal. Research any attorney thoroughly before hiring.
+
+Frequently Asked Questions
+
+What is a bankruptcy mill?
+
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases using a template-driven approach with minimal attorney involvement. Warning signs include very low advertised fees, limited face time with your actual attorney, frequent errors in filings, and cases handled primarily by paralegals or non-attorney staff.
+
+How much should a bankruptcy attorney cost?
+
+Chapter 7 attorney fees typically range from $1,000 to $2,500 depending on case complexity and location. Chapter 13 fees are usually $2,500 to $5,000, often paid through the repayment plan. Be cautious of fees that seem unusually low, as they may indicate a mill-style practice that cuts corners on case quality.
+
+How do I find a good bankruptcy attorney?
+
+Look for an attorney who is board-certified in consumer bankruptcy or who focuses primarily on bankruptcy cases. Check reviews, ask about their caseload, and confirm that the attorney (not just a paralegal) will review your case. The NACBA (National Association of Consumer Bankruptcy Attorneys) and local bar associations offer referral services.
+
 Part of the Bankruptcy Transparency Network
 
 1328f.com
@@ -9001,7 +9331,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### Is it a bad idea to file bankruptcy without a lawyer? -- File Bankruptcy Without a Lawyer
+### Is it a bad idea to file bankruptcy without a lawyer? - File Bankruptcy Without a Lawyer
 Source: https://filebankruptcywithoutlawyer.com/paa/is-it-a-bad-idea-to-file-bankruptcy-without-a-lawyer.html
 
 Skip to content
@@ -9053,7 +9383,7 @@ A creditor has filed or threatened a fraud objection
 
 The Risk-Reward Calculation
 
-An attorney typically costs $1,000-$2,500 for Chapter 7. If hiring one protects a $20,000 homestead exemption or ensures a $50,000 debt is properly discharged, the return on investment is enormous. If your case is truly simple, the savings of pro se filing are meaningful -- but be honest about your case's complexity.
+An attorney typically costs $1,000-$2,500 for Chapter 7. If hiring one protects a $20,000 homestead exemption or ensures a $50,000 debt is properly discharged, the return on investment is enormous. If your case is truly simple, the savings of pro se filing are meaningful - but be honest about your case's complexity.
 
 Related Guides
 
@@ -9077,7 +9407,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### What are the most common mistakes when filing bankruptcy pro se? -- File Bankruptcy Without a Lawyer
+### What are the most common mistakes when filing bankruptcy pro se? - File Bankruptcy Without a Lawyer
 Source: https://filebankruptcywithoutlawyer.com/paa/what-are-the-most-common-mistakes-when-filing-bankruptcy-pro-se.html
 
 Skip to content
