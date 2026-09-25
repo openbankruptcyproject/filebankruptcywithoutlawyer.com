@@ -1118,7 +1118,7 @@ Any individual under 28 U.S.C. § 1654. Married couples can file jointly pro se.
 
 Do I qualify for Chapter 7 or Chapter 13?
 
-Chapter 7 requires passing the means test. Chapter 13 requires regular income and debts below certain limits (~$2.75M combined).
+Chapter 7 requires passing the means test. Chapter 13 requires regular income and debts below two separate limits (unsecured under $526,700 and secured under $1,580,125).
 
 Can I file if I filed before?
 
